@@ -1,0 +1,4 @@
+*.swp
+results.xml
+sim_build/
+tb.fst
